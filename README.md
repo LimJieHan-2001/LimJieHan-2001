@@ -8,8 +8,13 @@
 - 📧 My official email: jiehan.lim-2001@graduate.utm.my
 
 
-My Skills:
+🏋️ My Skills:
 - Programming (C++, Java, Python)
 - Web Development (HTML, CSS, JavaScript, PHP)
 - Database Management (MySQL)
 - Problem solving and critical thinking
+
+
+🎓 Education:
+Bachelor's degree: Bioinformatics with Honors
+Status: Ongoing 
