@@ -9,7 +9,7 @@
 
 
 My Skills:
-- Programming (C++, Java)
+- Programming (C++, Java, Python)
 - Web Development (HTML, CSS, JavaScript, PHP)
 - Database Management (MySQL)
 - Problem solving and critical thinking
