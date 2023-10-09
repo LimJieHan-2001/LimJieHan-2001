@@ -1,4 +1,4 @@
-- 🤓 Hello, I am @LimJieHan-2001
+- 🤓 Hello, I am Lim Jie Han.
 - ⚙️ I am interested in AI and machine learning.
 - 💻 I am a second-year computer science student.
 - 🌱 My passion for bioinformatics brought me to UTM where I am working on my bachelor's degree.
