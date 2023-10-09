@@ -4,8 +4,4 @@
 - 🌱 My passion for bioinformatics brought me to UTM where I am working on my bachelor's degree.
 - 🤝 I am looking forward to collaborate with anyone who is passionate, creative and innovative.
 - 🌐 My Facebook link: https://www.facebook.com/jiehan.lim2001
-
-<!---
-LimJieHan-2001/LimJieHan-2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔗 My LinkedIn link: https://www.linkedin.com/in/lim-jie-han
