@@ -16,5 +16,5 @@
 
 
 🎓 Education:
-Bachelor's degree: Bioinformatics with Honors
-Status: Ongoing 
+- Bachelor's degree: Bioinformatics with Honors
+- Status: Ongoing 
