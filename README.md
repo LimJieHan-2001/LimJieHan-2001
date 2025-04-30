@@ -1,6 +1,6 @@
 - 🤓 Hello, I am Lim Jie Han.
 - ⚙️ I am interested in AI and machine learning.
-- 💻 I am a third-year computer science student.
+- 💻 I am a fourth-year computer science student.
 - 🌱 My passion for bioinformatics brought me to Universiti Teknologi Malaysia where I am working on my bachelor's degree.
 - 🤝 I am looking forward to collaborate with anyone who is passionate, creative and innovative.
 - 🌐 My Facebook link: https://www.facebook.com/jiehan.lim2001
